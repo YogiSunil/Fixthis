@@ -147,7 +147,7 @@
 - Links to key commits:
    - Fixthis repo structure push: `3efdd70`
    - SuiteCRM scoped instructions push: `3a8e9f64f`
-   - Feature implementation + tests: committed in SuiteCRM `hotfix` branch during this pass.
+   - Feature implementation + tests in SuiteCRM `hotfix`: `9f76991bc`
 - Before/after examples of improved agent output:
    - Before: generic dashlet plan without cache rebuild step.
    - After: scoped rules required custom path placement, class/meta/data pattern, and explicit dashlet cache rebuild verification.
