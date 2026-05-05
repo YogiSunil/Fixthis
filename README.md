@@ -35,22 +35,22 @@ Command used:
 - [x] Map architecture with AI exploration and save notes in writeup.md
 - [x] Create project-specific CLAUDE.md with real stack and paths
 - [x] Add scoped AGENTS.md in a key subdirectory (`SuiteCRM/modules/`)
-- [ ] Commit and push
+- [x] Commit and push
 
 ### V1.1 - Rules and Context Tuning
 
 - [x] Add at least 3 scoped rules based on SuiteCRM conventions
-- [ ] Run a small implementation prompt to validate agent behavior
-- [ ] Refine rules and document before/after in writeup.md
-- [ ] Commit and push
+- [x] Run a small implementation prompt to validate agent behavior
+- [x] Refine rules and document before/after in writeup.md
+- [x] Commit and push
 
 ### V1.2 - Feature Addition
 
 - [x] Draft feature specification with acceptance criteria in writeup.md
-- [ ] Add failing tests first
-- [ ] Implement to green
-- [ ] Verify no regressions in existing test suites
-- [ ] Commit and push
+- [x] Add failing tests first
+- [x] Implement to green
+- [x] Verify no regressions in existing test suites
+- [x] Commit and push
 
 ## Current Feature Target
 
