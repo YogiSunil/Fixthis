@@ -1,0 +1,3 @@
+[submodule "SuiteCRM"]
+	path = SuiteCRM
+	url = https://github.com/YogiSunil/SuiteCRM.git
